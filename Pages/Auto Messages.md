@@ -1,5 +1,5 @@
-## **Auto Messages│`/automsg` ** 
--# Auto Messages are automated responses that are sent by the bot when a new thread is created in a forum channel. This feature is particularly useful for providing immediate guidance, instructions, or resources to users when they create new posts.
+## Auto Messages│`/automsg`
+Auto Messages are automated responses that are sent by the bot when a new thread is created in a forum channel. This feature is particularly useful for providing immediate guidance, instructions, or resources to users when they create new posts.
 
 - When a user creates a new thread in a forum channel with Auto Messages enabled, the bot automatically sends the configured message as the first reply
 - Each forum channel can have one auto message

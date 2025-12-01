@@ -1,5 +1,5 @@
-## **Close Tag│`/admin defclosetag` **
--# Close Tags are automatically applied when using the /close command, which is available to the Original Poster (OP), users with Tag Manager roles, and Forum Staff.
+## Close Tag│`/admin defclosetag`
+Close Tags are automatically applied when using the /close command, which is available to the Original Poster (OP), users with Tag Manager roles, and Forum Staff.
 
 - When a post is closed (using the /close command), the configured close tag is applied.
 - Each forum channel can have one close tag.

@@ -1,5 +1,5 @@
-## **Toggle Tags│`/togtags` **
--# Toggle Tags are special tags that can be toggled on or off in a forum post when a user sends a message in the Post.
+## Toggle Tags│`/togtags`
+Toggle Tags are special tags that can be toggled on or off in a forum post when a user sends a message in the Post.
 
 How Toggle Tags Work
 - Each forum channel can have up to 2 toggle tags.

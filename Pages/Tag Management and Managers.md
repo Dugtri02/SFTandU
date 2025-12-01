@@ -1,5 +1,5 @@
-## **Tag Management & Managers│`manage` & `tagmanager` **
--# Tag Managers are authorized roles with special permissions to manage tags and post states in forum channels. They have elevated permissions beyond regular users but don't need full moderator privileges.
+## Tag Management & Managers│`manage` & `tagmanager`
+Tag Managers are authorized roles with special permissions to manage tags and post states in forum channels. They have elevated permissions beyond regular users but don't need full moderator privileges.
 
 Tag Manager Permissions
 Users with Tag Manager roles can:
@@ -14,11 +14,11 @@ Administrators must specify which tags a Tag Manager role can manage:
 - Administrators must configure Authorized Tags to grant Tag Managers permissions to manage specific tags
 - Different Tag Manager roles can be authorized for different sets of tags
 
-`/authorizetag assign`: Assigns up to 5 tags to the authorized Tag Manager, can be used multiple times and accepts more than 5 tags (i.e. you can have 10 or more tags authorized) - **:warning:ADMIN:warning:**
+`/authorizetag assign`: Assigns up to 5 tags to the authorized Tag Manager, can be used multiple times and accepts more than 5 tags (i.e. you can have 10 or more tags authorized) - :warning:ADMIN:warning:
 
-`/authorizetag revoke`: Revokes authorization for up to 5 tags from a Tag Manager role - **:warning:ADMIN:warning:**
+`/authorizetag revoke`: Revokes authorization for up to 5 tags from a Tag Manager role - :warning:ADMIN:warning:
 
-`/authorizetag list`: Lists all tags that a Tag Manager role is authorized to manage - **:warning:ADMIN:warning:**
+`/authorizetag list`: Lists all tags that a Tag Manager role is authorized to manage - :warning:ADMIN:warning:
 
 Available Commands
 `/close [tag]`: Closes the post and applies a tag. If a default close tag is configured, it will be applied automatically. You can specify an override tag parameter to use a different tag than the default. A default close tag is not required for this command to work.

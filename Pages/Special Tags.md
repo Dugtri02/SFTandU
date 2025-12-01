@@ -1,5 +1,5 @@
-## **Special Tags│`/specialtags` **
--# Special Tags are custom behaviour modifiers that affect how a post with the tag behaves. These tags can be applied to any forum post, changing how users can interact with the post.
+## Special Tags│`/specialtags`
+Special Tags are custom behaviour modifiers that affect how a post with the tag behaves. These tags can be applied to any forum post, changing how users can interact with the post.
 
 NOTE: These tags rely on the tag's name. The tag must be added to a forum post either by manually adding a tag with the exact same name as the Special Tag created, or by using the `/specialtags` add command.
 
