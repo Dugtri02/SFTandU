@@ -73,7 +73,7 @@ These conflict resolutions are handled automatically when creating or editing ta
 - When a post is closed (using the /close command), the configured close tag is applied.
 - Each forum channel can have one close tag.
 - This tag must be one of the tags available in that Discord forum channel.
-- It will toggle off any present [Toggle Tags](https://discord.com/channels/271776624490446858/1444846828439736320/1444851679785652396)
+- It will toggle off any present Toggle Tags.
 
 Close tags can be combined with special tag properties like "Delete on Close" for thread management.
 
